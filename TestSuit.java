@@ -7,7 +7,7 @@ public class TestSuit{
 
 }
 
-public class cat{
+public String class cat{
    private String name;
    private int age;
    

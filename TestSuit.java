@@ -2,6 +2,7 @@ public class TestSuit{
    public static void main(String[] args){
    System.out.println("hello cat");
    System.out.println("hello dog");
+   System.out.println("a change has been made");
    }
 
 }
